@@ -31,9 +31,8 @@ header {
 }
 
 .pic1 {
-    height: 100%;
-    background-image: url('nyla_smile.JPG');
-    background-repeat: no-repeat;
+    height: 100vh;
+    width: 40vw;
     position: relative;
     animation-name: float;
     animation-duration: 6s;
@@ -45,7 +44,7 @@ header {
 
 @keyframes float {
     0%      {left: -0.5vw;}
-    50%     {transform: translateX(51vw);}
+    50%     {left: 60vw;}
     100%    {left: -0.5vw;}
 }
 
