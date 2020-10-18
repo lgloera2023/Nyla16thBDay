@@ -32,7 +32,7 @@ header {
 
 .pic1 {
     height: 100%;
-    background-image: url('nyla_smile.jpg');
+    background-image: url('nyla_smile.JPG');
     background-repeat: no-repeat;
     position: relative;
     animation-name: float;
